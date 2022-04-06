@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/googleapis?activeTab=versions
 
+### [100.0.1](https://github.com/googleapis/google-api-nodejs-client/compare/googleapis-v100.0.0...googleapis-v100.0.1) (2022-04-06)
+
+
+### Bug Fixes
+
+* give `npm pack` time to truly finish ([#2939](https://github.com/googleapis/google-api-nodejs-client/issues/2939)) ([150c9fc](https://github.com/googleapis/google-api-nodejs-client/commit/150c9fc98e6bbc80f2adeddcd15ec3158661dfcb))
+
 ## [100.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/googleapis-v99.0.0...googleapis-v100.0.0) (2022-04-01)
 
 
